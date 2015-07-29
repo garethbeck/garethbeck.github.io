@@ -1,1 +1,0 @@
-# garethbeck.github.io
