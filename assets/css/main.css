@@ -8932,7 +8932,7 @@ input, select, textarea {
 body, html {
   height: 100%;
   margin: 0;
-  font: 400 15px/1.8 "Lato", sans-serif;
+  font: 400 17px/1.8 "Lato", sans-serif;
   color: rgba(41, 41, 41, 1);
 }
 
@@ -8943,10 +8943,6 @@ body, html {
   background-repeat: no-repeat;
   background-size: cover;
 
-}
-.bgimg-1 {
-  background-image: url("img_parallax.jpg");
-  height: 100%;
 }
 
 .blog-caption {
